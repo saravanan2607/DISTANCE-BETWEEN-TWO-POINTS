@@ -23,7 +23,7 @@ print("{:.2f}".format(d))
 
 
 ### OUTPUT:
-![Output](/Distances.jpg)
+![Output](/image5.jpg)
 
 
 ### RESULT:
