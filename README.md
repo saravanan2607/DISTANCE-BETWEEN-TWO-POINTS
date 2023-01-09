@@ -4,7 +4,7 @@
 To write a python program to find the distance two 2 points
 ## ALGORITHM:
 ### Step 1: import math as m
-### Step 2: give the two values
+### Step 2: Assign the two values
 ### Step 3: Apply the distance formula in the form of function as m.sqrt()
 Substitute the values in the distance formula  ![formula](/formula.jpg)
 ### Step 4: print the values
