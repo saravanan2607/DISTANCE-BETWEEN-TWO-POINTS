@@ -1,5 +1,5 @@
 # DISTANCE-BETWEEN-TWO-POINTS
-
++
 ## AIM:
 To write a python program to find the distance two 2 points
 ## ALGORITHM:
@@ -23,7 +23,7 @@ print("{:.2f}".format(d))
 
 
 ### OUTPUT:
-![Output](/Distance%20between%20two%20points.JPG)
+![Output](/Distances.jpg)
 
 
 ### RESULT:
