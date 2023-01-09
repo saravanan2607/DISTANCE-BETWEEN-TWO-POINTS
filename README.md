@@ -3,12 +3,12 @@
 ## AIM:
 To write a python program to find the distance two 2 points
 ## ALGORITHM:
-### Step 1: 
-### Step 2: 
-### Step 3: 
+### Step 1: import math as m
+### Step 2: give the two values
+### Step 3: Apply the distance formula in the form of function as m.sqrt()
 Substitute the values in the distance formula  ![formula](/formula.jpg)
-### Step 4: 
-### Step 5: 
+### Step 4: print the values
+### Step 5: End of program
 ### PROGRAM:
   ``` py
 #Program to find the distance between two points.
@@ -27,3 +27,4 @@ print("{:.2f}".format(d))
 
 
 ### RESULT:
+Thus the distance between two points are successfully executed
