@@ -23,7 +23,8 @@ print("{:.2f}".format(d))
 
 
 ### OUTPUT:
-![Output](/Distance.jpg)
+
+![Exp-1a CR Swapping of two variables_ Attempt review - Google Chrome 15-06-2023 09_22_57 (2)](https://github.com/saravanan2607/DISTANCE-BETWEEN-TWO-POINTS/assets/121395849/e0923503-d7ba-4e11-a22c-acffa7efc1c1)
 
 
 ### RESULT:
