@@ -1,8 +1,12 @@
 # EXP-03
+
 # DISTANCE-BETWEEN-TWO-POINTS
 
 ## AIM:
 To write a python program to find the distance two 2 points
+
+
+
 ## ALGORITHM:
 ### Step 1: import math as m
 ### Step 2: Assign the two values
@@ -10,6 +14,8 @@ To write a python program to find the distance two 2 points
 Substitute the values in the distance formula  ![formula](/formula.jpg)
 ### Step 4: print the values
 ### Step 5: End of program
+
+
 ### PROGRAM:
   ``` py
 #Program to find the distance between two points.
