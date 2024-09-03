@@ -1,11 +1,9 @@
 # EXP-03
-
-# DISTANCE-BETWEEN-TWO-POINTS
+# DATE : 03/09/24
+# DISTANCE BETWEEN TWO POINTS
 
 ## AIM:
 To write a python program to find the distance two 2 points
-
-
 
 ## ALGORITHM:
 ### Step 1: import math as m
@@ -19,19 +17,20 @@ Substitute the values in the distance formula  ![formula](/formula.jpg)
 ### PROGRAM:
   ``` py
 #Program to find the distance between two points.
-#Developed by: C Saravanan
-#RegisterNumber:22008175
+# Developed by: Saravanan C
+# Register no: 212222110041
 import math as m 
 L1 = [4,2]
 L2 = [10,6]
 d =  m.sqrt((L2[0]-L1[0])**2 + (L2[1]-L1[1])**2)
 print("{:.2f}".format(d))
+
 ```
 
 
 ### OUTPUT:
+![EXP - 03 ](https://github.com/user-attachments/assets/0060a8e5-9395-4903-8aba-5f0fa5888df7)
 
-![Exp-1a CR Swapping of two variables_ Attempt review - Google Chrome 15-06-2023 09_22_57 (2)](https://github.com/saravanan2607/DISTANCE-BETWEEN-TWO-POINTS/assets/121395849/e0923503-d7ba-4e11-a22c-acffa7efc1c1)
 
 
 ### RESULT:
